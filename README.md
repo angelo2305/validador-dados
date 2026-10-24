@@ -21,3 +21,4 @@ pytest --html=relatorio.html --self-contained-html
 ## Resultado dos testes
 ![Relatório](relatorio.png)
 
+[![Testes](https://github.com/angelo2305/validador-dados/actions/workflows/testes.yml/badge.svg)](https://github.com/angelo2305/validador-dados/actions/workflows/testes.yml)
